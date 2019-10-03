@@ -1,4 +1,4 @@
-﻿USE DapperPlayground;
+﻿USE DapperPlaygroundShop;
 GO
 
 INSERT INTO Users

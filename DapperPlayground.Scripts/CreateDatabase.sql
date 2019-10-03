@@ -1,10 +1,10 @@
 ﻿USE master;  
 GO
 
-CREATE DATABASE DapperPlayground;  
+CREATE DATABASE DapperPlaygroundShop;  
 GO
 
-USE DapperPlayground;  
+USE DapperPlaygroundShop;  
 GO
  
 CREATE TABLE Users (
