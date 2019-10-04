@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DapperPlayground.Entities
 {
-    class Order
+    public class Order
     {
         public int OrderID { get; set; }
         public int UserID { get; set; }
